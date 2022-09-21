@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "maxLimit": 100,
+    "minLimit": null,
+    "allowedChars": "ABCDEFGHIJKLMNOPQRSTUVWXYZ ,.!?",
+    "calculations": {
+      "addition": {
+        "secondNumberMaxDigits": null
+      },
+      "subtraction": {
+        "secondNumberMaxDigits": null
+      },
+      "multiplication": {
+        "allowedDigits": [
+          3, 4, 5, 6
+        ]
+      }
+    }
+  }
+}
